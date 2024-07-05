@@ -1,4 +1,4 @@
-# Image_Style_Transfer
+# Image Style Transfer
 
 ![result_example](results/1.png)
 <p align="center"><i>Figure 1: Style Transfer V1</i></p>
